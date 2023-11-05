@@ -4,7 +4,7 @@ This app is designed to help you learn chemistry in an interactive and engaging 
 
 ## Android App
 You can download the app for Android from the following link:
-[Download Android App](<insert_link_to_android_app>)
+[Download Android App](<(https://github.com/x-brymo/Best-Learning-Chemistry/releases/download/Release/app-release.apk)>)
 
 ## Example Code JSON File
 Here is an example JSON representation of a chemical element, in this case, Lithium:
